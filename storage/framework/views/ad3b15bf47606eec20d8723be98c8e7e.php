@@ -131,4 +131,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH C:\web\bootcamp\laravel-mi6\MI6\resources\views/welcome.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/malika/web_coding_bootacamp_PRAGUE/exercises/laravel-mi6/MI6/resources/views/welcome.blade.php ENDPATH**/ ?>
